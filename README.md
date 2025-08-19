@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Sagor Hossain
 Professional Full Stack Web Developer | 4+ Years Experience
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="800" height="400" /> </div>
+<div align="center"> <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWpBCYXkuAY_v57-kCWgG7Dqd81xGtoj2STeKEVqPm9q0u4qxZ-vIh_nLT7HoAQrzOC_m62cVkmpFsn-34msl3zOuj6fcFpoliForp8MUFdutyrEqoZZNXxrmcmnnON47MSPGRdjtDp-uaQE7kR_qCM0rIOxMSouYXtc9bcElhgmvQObtx-HG3i3CXWQ/w640-h466/develop-web.gif)" alt="Coding GIF" width="800" height="400" /> </div>
 🚀 About Me
 I'm a passionate full stack developer from Bangladesh with over 4 years of experience building scalable web applications. I love turning complex problems into simple, beautiful and intuitive solutions.
 
