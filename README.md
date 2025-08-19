@@ -53,10 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shsagorhossain&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagorhossain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shsagorhossain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagorhossain&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shsagorhossain&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
   
 </div>
 
