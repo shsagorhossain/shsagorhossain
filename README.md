@@ -49,15 +49,17 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-  <!-- Standard Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sagorhossain&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagorhossain&layout=compact&theme=tokyonight&count_private=true" height="150"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shsagorhossain&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
 
-  <!-- Contribution Graph (includes collaborator repos) -->
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagorhossain&theme=tokyo-night" alt="Contribution Graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shsagorhossain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shsagorhossain&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  
 </div>
+
 
 
 ---
